@@ -1,5 +1,5 @@
 {
-  "name": "my-storyblok-project",
+  "name": "action",
   "version": "1.0.0",
   "description": "",
   "main": "build.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "commonjs"
 }
